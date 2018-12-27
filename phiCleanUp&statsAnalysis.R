@@ -14,8 +14,7 @@ library(here)
 #setwd("H:/GoogleDrive/VIMdb/Projects/PHIbase/")
 #--MAIN---------------------------------------------------------
 #phi=read.csv("phi46.csv", stringsAsFactors=FALSE, strip.white=TRUE, header=FALSE)
-here("Phi46","phi46_0.xlsx")
-phi=read_excel("phi46_0.xlsx", sheet= "PHIbase_all")
+phi=read_excel(here("Phi46/phi46_0.xlsx"), sheet= "PHIbase_all")
 
 #  ===TO TO ==== Beneath column removal not implemented in pipeline was doe manually in phi46  
 #
@@ -64,12 +63,12 @@ str(phi)
 #get new col names from Mapping table, take only col 4 and restrict to 86 cols
 #newNames=read.table("colMap_PHI_R_MC_vers03.txt",header=T,sep="\t", stringsAsFactors=F)
 newNames=fread("colMap_PHI_R_MC_vers05.csv",select=c(4),colClasses = list(character=4))
-newNames=newNames[2:88]
+newNames=newNames[2:87]  #exclude header
 newNames=unlist(newNames)
+#phi=phi[-1,]
 
 setnames(phi,colnames(phi),newNames)
 #remove MC header row
-phi=phi[-1,]
 
 phiSlim=phi %>%
   select(- contains("exclude"))
@@ -128,6 +127,8 @@ phiSpecies=read.csv("pathogen_species_all_list.csv", stringsAsFactors=FALSE, str
 #count NAs in left_joined table for testing of succesful vlookup with lef_join in dplyr
 #  Class is here the pathogen type!
 
+
+##  Error produced by statement beneath, needs fixing: Error: becuase of integer/character incompatible data types
 phiSlim %>%
   select(PhiAcc, PathSpecies,PathSpeciesTaxId,Phenotype)  %>%
   left_join(select(phiSpecies,PathSpeciesTaxId, Class), by=c("PathSpeciesTaxId"="PathSpeciesTaxId")) %>%

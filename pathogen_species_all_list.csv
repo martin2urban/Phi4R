@@ -1,0 +1,259 @@
+PathSpeciesTaxId,PathSpecies,Comment on pathogen name change,Monocot.Dicot.plant,Host.NCBI.Taxonomy.ID,ExperimentalHost,Experimental.host,Kingdom.of.pathogen,Phylom.of.pathogen(fungus/protist/other),Taxon.of.pathogen,Pathogen.tax.ID,Class,host.species.type,lifestyle,obligate.biotroph,host.species.types.natural,no.of.plant.hosts,no.different.host.interactions.in.literature
+139,Borrelia burgdorferi,,,10090,Mus musculus,Mouse,prokaryote,bacterium,prokaryote,139,animal,Animal,,,,,
+197,Campylobacter jejuni,,,9031,Gallus gallus,Chicken,prokaryote,bacterium,prokaryote,197,animal,Bird,,,,,
+210,Helicobacter pylori,,Rodents,10090,Mus musculus,Mus musculus (related: House mouse),prokaryote,bacterium,prokaryote,210,animal,NA,NA,NA,NA,NA,NA
+235,Brucella abortus,,Rodents,10090,Mus musculus,Mus musculus (related: House mouse),prokaryote,bacterium,prokaryote,235,animal,NA,NA,NA,NA,NA,NA
+263,Francisella tularensis ,,,10090,Mus musculus,Mouse,prokaryote,bacterium,prokaryote,263,animal,NA,NA,NA,NA,NA,NA
+264,Francisella novicida,,Rodents,10090,Mus musculus,Mus musculus (related: House mouse),prokaryote,bacterium,prokaryote,264,animal,NA,NA,NA,NA,NA,NA
+287,Pseudomonas aeruginosa,,,7227,Drosophila melanogaster,Fruit fly,prokaryote,bacterium,prokaryote,287,animal,Insect / Nematode / Animal / Fish / Dicot,,,,,
+294,Pseudomonas fluorescens,,Bony fishes,8255,Paralichthys olivaceus,Paralichthys olivaceus (related: Japanese flounder),prokaryote,bacterium,prokaryote,294,animal.fungi,NA,NA,NA,NA,NA,NA
+305,Ralstonia solanacearum,,Eudicot,4072,Capsicum annuum,Pepper,prokaryote,bacterium,prokaryote,305,plant,Dicot ,,,Dicot - Non Cereal Monocot,many,4 or 49
+317,Pseudomonas syringae,,Dicot,4081,Solanum lycopersicumÿ,Tomato,NA,bacterium,bacterium,317,plant,NA,NA,NA,NA,NA,NA
+321,Pseudomonas syringae pv. Syringae,,,3885,Phaseolus vulgaris,Beans,prokaryote,bacterium,prokaryote,321,plant,NA,NA,NA,NA,NA,NA
+322,Pseudomonas syringae pv. tabaci,,Eudicot,4097,Nicotiana tabacum,Tobacco,prokaryote,bacterium,prokaryote,322,plant,Dicot,Hemibiotroph,,Dicot,few,20
+323,Pseudomonas syringae pv. tomato,,Eudicot,3702,Arabidopsis thaliana,Thale cress,prokaryote,bacterium,prokaryote,323,plant,Dicot,Hemibiotroph,,Dicot,few,3
+337,Burkholderia glumae,,Monocot,4530,Oryza sativa,Rice,prokaryote,bacterium,prokaryote,337,plant,Monocot,Necrotroph,,Cereal Monocot,few,2
+339,Xanthomonas campestris,,Eudicot,4081,Solanum lycopersicumÿ,Tomato,prokaryote,bacterium,prokaryote,339,plant,Dicot,Hemibiotroph,,Dicot,many,6~
+340,Xanthomonas campestris pv. Campestris,,Eudicot,41679,Raphanus sativus var. niger,Chinese Radish,prokaryote,bacterium,NA,340,plant,NA,NA,NA,NA,NA,NA
+346,Xanthomonas axonopodis pv. citri,,,2711,Citrus sinensis,Valencia orange,prokaryote,bacterium,prokaryote,346,plant,Dicot,Hemibiotroph,,Dicot - Dicot Trees,few,
+347,Xanthomonas oryzae pv. oryzae,,,4530,Oryza sativa,,procaryote,bacterium,prokaryote,347,plant,,,,,,
+358,Agrobacterium tumefaciens,,,4113,Solanum tuberosumÿ,Potato,prokaryote,bacterium,prokaryote,358,plant,Dicot,Biotroph,,Dicot,many,47
+373,Agrobacterium vitis,,Eudicot,29760,Vitis vinifera,Grapes,prokaryote,bacterium,prokaryote,373,plant,Dicot,Biotroph,,Dicot,one,
+446,Legionella pneumophila,,Eukaryotes,5755,Acanthamoeba castellanii,Acanthamoeba castellanii (no common name found),prokaryote,bacterium,prokaryote,446,animal,NA,NA,NA,NA,NA,NA
+470,Acinetobacter baumannii,,,44689,Dictyostelium discoideum,Amoebae,prokaryote,bacterium,prokaryote,470,animal,Animal  / Insect,,,,,
+504,Kingella kingae,,Rodents,10114,Rattus,Rattus (related: Rat),prokaryote,bacterium,prokaryote,504,animal,NA,NA,NA,NA,NA,NA
+518,Bordetella bronchiseptica,,,10090,Mus musculus,Mouse,prokaryote,bacterium,prokaryote,518,animal,Animal,,,,,
+552,Erwinia amylovora,,Eudicot,23211,Pyrus communisÿ,Pear,prokaryote,bacterium,prokaryote,552,plant,Dicot ,Necrotroph,,Dicot - trees ,many,10 or 28
+553,Pantoea ananatis,,Monocots,4679,Allium cepa,Allium cepa (related: Onion),prokaryote,bacterium,prokaryote,553,plant,NA,NA,NA,NA,NA,NA
+554,Pectobacterium carotovorum,,Eudicot,117781,Apium graveolens Dulce Group,Celery,prokaryote,bacterium,prokaryote,554,plant,Dicot,Necrotroph,,Dicot - Non Cereal Monocot,many,73
+555,Pectobacterium carotovorum,,Eudicot,117781,Apium graveolens Dulce Group,,procaryote,bacterium,prokaryote,555,plant,,,,,,
+562,Escherichia coli,,,9031,Gallus gallus,Chicken,prokaryote,bacterium,prokaryote,562,animal,Bird / Animal,,,,,
+573,Klebsiella pneumoniae,,,10090,Mus musculus,Mouse,prokaryote,bacterium,prokaryote,573,animal,Animal,,,,,
+615,Serratia marcescens,,Primates,9606,Homo sapiens,Homo sapiens (related: Human),prokaryote,bacterium,prokaryote,615,animal,NA,NA,NA,NA,NA,NA
+623,Shigella flexneri,,,10090,Mus musculus,,procaryote,bacterium,enterobacteria,623,animal,,,,,,
+630,Yersinia enterocolitica,,Even-toed ungulates,9823,Sus scrofa,Sus scrofa (related: Pig),prokaryote,bacterium,prokaryote,630,animal,NA,NA,NA,NA,NA,NA
+632,Yersinia pestis,,animal,9606,Homo sapiens,,procaryote,bacterium,enterobacteria,632,animal,,,,,,
+633,Yersinia pseudotuberculosis,,,10090,Mus musculus,Mouse,prokaryote,bacterium,prokaryote,633,animal,Animal,,,,,
+636,Edwardsiella tarda,,,52904,Scophtalmus maximus,,procaryote,bacterium,enterobacteria,636,animal,fish,,,,,
+644,Aeromonas hydrophila,,,10090,Mus musculus,,procaryote,bacterium,g-proteobacteria,644,animal,,,,,,
+645,Aeromonas salmonicida,,Cellular slime molds,44689,Dictyostelium discoideum,Dictyostelium discoideum (related: Amoeba),prokaryote,bacterium,prokaryote,645,animal,NA,NA,NA,NA,NA,NA
+666,Vibrio cholerae,,,9606,Homo sapiens,Human,prokaryote,bacterium,prokaryote,666,animal,Animal,,,,,
+670,Vibrio parahaemolyticus,,animal,9986,Oryctolagus cuniculus,rabbit,procaryote,bacterium,g-proteobacteria,670,animal,human,,,,,
+672,Vibrio vulnificus,,Beetles,7067,Tenebrio molitor,Tenebrio molitor (related: Yellow mealworm),prokaryote,bacterium,prokaryote,672,animal,NA,NA,NA,NA,NA,NA
+728,Avibacterium paragallinarum,,Birds,9031,Gallus gallus,Gallus gallus (related: Chicken),prokaryote,bacterium,prokaryote,728,animal,NA,NA,NA,NA,NA,NA
+738,Haemophilus parasuis,,Even-toed ungulates,9823,Sus scrofa,Sus scrofa (related: Pig),prokaryote,bacterium,prokaryote,738,animal,NA,NA,NA,NA,NA,NA
+777,Coxiella burnetii,,Primates,9534,Chlorocebus aethiops ,Chlorocebus aethiops (related: Grivet),prokaryote,bacterium,prokaryote,777,animal,NA,NA,NA,NA,NA,NA
+813,Chlamydia trachomatis,,Rodents,10090,Mus musculus,Mus musculus (related: House mouse),prokaryote,bacterium,prokaryote,813,animal,NA,NA,NA,NA,NA,NA
+837,Porphyromonas gingivalis,,Rodents,10114,Rattus,Rattus (related: Rat),prokaryote,bacterium,prokaryote,837,animal,NA,NA,NA,NA,NA,NA
+1280,Staphylococcus aureus,,,10090,Mus musculus,Mouse,prokaryote,bacterium,prokaryote,1280,animal,Animal / Insect,,,,,
+1306,Streptococcus sp,,,10090,Mus musculus,Mouse,prokaryote,bacterium,prokaryote,1306,animal,Animal,,,,,
+1307,Streptococcus suis,,,10090,Mus musculus,Mouse,prokaryote,bacterium,prokaryote,1307,animal,Animal / Fish,,,,,
+1311,Streptococcus agalactiae,,,10090,Mus musculus,Mouse,prokaryote,bacterium,prokaryote,1311,animal,Animal,,,,,
+1313,Streptococcus Pneumoniae,,,10090,Mus musculus,Mouse,NA,bacterium,prokaryote,1313,animal,NA,NA,NA,NA,NA,NA
+1314,Streptococcus pyogenes,,,10090,Mus musculus,Mouse,prokaryote,bacterium,prokaryote,1314,animal,Animal / Insect,,,,,
+1346,Streptococcus iniae,,animal,52904,Scophtalmus maximus,,procaryote,bacterium,prokaryote,1346,animal,fish,,,,,
+1348,Streptococcus parauberis,,Bony fishes,8255,Paralichthys olivaceus,Paralichthys olivaceus (related: Japanese flounder),prokaryote,bacterium,prokaryote,1348,animal,NA,NA,NA,NA,NA,NA
+1351,Enterococcus faecalis,,,10090,Mus musculus,Mouse,prokaryote,bacterium,prokaryote,1351,animal,Animal / Insect,,,,,
+1392,Bacillus anthracis,,Rodents,10090,Mus musculus,Mus musculus (related: House mouse),prokaryote,bacterium,prokaryote,1392,animal,NA,NA,NA,NA,NA,NA
+1396,Bacillus cereus,,,7137,Galleria mellonella,Greater wax moth,prokaryote,bacterium,prokaryote,1396,all,Insect / Nematode / Animal / Fish / Dicot,,,,,
+1496,Clostridium difficile,,,9823,Sus scrofa,Pig,prokaryote,bacterium,prokaryote,1496,animal,Animal,,,,,
+1639,Listeria monocytogenes,,,10090,Mus musculus,Mouse,prokaryote,bacterium,prokaryote,1639,animal,Animal,,,,,
+1764,Mycobacterium avium,,Rodents,10090,Mus musculus,Mus musculus (related: House mouse),prokaryote,bacterium,prokaryote,1764,animal,NA,NA,NA,NA,NA,NA
+1773,Mycobacterium tuberculosis,,,10090,Mus musculus,Mouse,prokaryote,bacterium,prokaryote,1773,animal,Animal,,,,,
+1781,Mycobacterium marinum,,Eukaryotes,5755,Acanthamoeba castellanii,Acanthamoeba castellanii (no common name found),prokaryote,bacterium,prokaryote,1781,animal,NA,NA,NA,NA,NA,NA
+1930,Streptomyces scabies,,,4113,Solanum tuberosumÿ,Potato,prokaryote,bacterium,prokaryote,1930,plant,Dicot,Necrotroph,,Diciot,few,19 or 7
+2096,Mycoplasma gallisepticum,,Birds,9031,Gallus gallus,Gallus gallus (related: Chicken),prokaryote,bacterium,prokaryote,2096,animal,bird,NA,NA,NA,NA,NA
+2371,Xylella fastidiosa,,,29760,Vitis vinifera,,procaryote,bacterium,prokaryote,2371,plant,,,,,,
+4779,Bremia lactucae,,Dicot,4236,Lactuca sativa,Lactuca sativa,eukaryote,protist,oomycete,4779,plant,,,,,,
+4784,Phytophthora capsici,,Dicot,4072,Capsicum annuum,Pepper (Capsicum annuum),eukaryote,fungus,ascomycete,4784,plant,Dicot,Hemibiotroph,,"Dicot, Dicot-Tree,  Non Cereal Monocot",Many,84
+4787,Phytophthora infestans,,Dicot,4113,Solanum tuberosumÿ,Potato,eukaryote,protist,oomycete,4787,plant,Dicot,Hemibiotroph,,Dicot,Vast,134
+4792,Phytophthora parasitica,,Dicot,4113,Solanum tuberosumÿ,Potato,eukaryote,fungus,ascomycete,4792,plant,Dicot,Hemibiotroph,,"Dicot, Dicot-Tree,  Non Cereal Monocot",Vast,897
+4932,Saccharomyces cerevisiae,,,10090,Mus musculus,Mouse,eukaryote,fungus,ascomycete,4932,animal,Animal / Nematode ,,,,,
+5016,Cochliobolus heterostrophus,,Monocot,4577,Zea mays,Maize,eukaryote,fungus,ascomycete,5016,plant,Monocot,Necrotroph -HST,,Cereal Monocot   and Dicot,Many,101
+5017,Cochliobolus carbonum,,Monocot,4577,Zea mays,Maize,eukaryote,fungus,ascomycete,5017,plant,Monocot,Necrotroph -HST,,Cereal Monocot,Many,40
+5022,Leptosphaeria maculans,,Dicot,3708,Brassica napusÿ,Oil seed rape,eukaryote,fungus,ascomycete,5022,plant,Dicot,Hemibiotroph,,Dicot ,Vast,110
+5025,Venturia inaequalis,,Dicot,3750,Malus domestica,Apple,eukaryote,fungus,ascomycete,5025,plant,Dicot,Hemibiotroph,,Dicot - Tree ,Vast,141
+5037,Histoplasma capsulatum,,,5037,Histoplasma capsulatum,,eukaryote,fungus,ascomycete,5037,animal,Animal,,,,,
+5039,Blastomyces dermatitidis,,,10090,Mus musculus,Mouse,eukaryote,fungus,ascomycete,5039,animal,Animal,,,,,
+5059,Aspergillus flavus,,Dicot,3635,Gossypium hirsutum,Cotton,eukaryote,fungus,ascomycete,5059,plant,Dicot,Necrotroph,,Cereal Monocot  - Non Cereal Monocot - Dicot ,Vast,136
+5111,Claviceps purpurea,,Monocot,4550,Secale cereale,Rye,eukaryote,fungus,ascomycete,5111,plant,Monocot,Biotroph ,,Cereal Monocot,Vast,515
+5116,Cryphonectria parasitica,,Dicot,134033,Castanea dentata,American Chestnut tree,eukaryote,fungus,ascomycete,5116,plant,Dicot,Hemibiotroph -necrotroph,,Dicot - Tree ,Many ,50
+5127,Gibberella fujikuroi,,Monocot,4530,Oryza sativa,Rice,eukaryote,fungus,ascomycete,5127,plant,Monocot,Hemibiotroph -necrotroph,,Cereal Monocot  - Non Cereal Monocot - Dicot ,Many,51
+5128,Gibberella pulicaris,,Dicot,4113,Solanum tuberosumÿ,Potato,eukaryote,fungus,ascomycete,5128,plant,Dicot,Necrotroph,,Cereal Monocot - Non Cereal Monocot - Dicot ,Vast,132
+5158,Ceratocystis fimbriata,,Eudicots,4097,Nicotiana tabacum,Nicotiana tabacum (related: Common tobacco),eukaryote,fungus,ascomycete,5158,plant,NA,NA,NA,NA,NA,NA
+5180,Sclerotinia sclerotiorum,,Dicot,4081,Solanum lycopersicumÿ,Tomato,eukaryote,fungus,ascomycete,5180,plant,Dicot,Necrotroph,,Non Cereal Monocot - Dicot ,Vast,684
+5207,Cryptococcus neoformans,,,6239,Caenorhabditis elegans,Nematode,eukaryote,fungus,basidiomycete,5207,animal,Animal,,,,,
+5261,Melampsora lini,,Dicot,4006,Linum usitatissimum,Flax,eukaryote,fungus,ascomycete,5261,plant,Dicot,Biotroph,,Dicot - Linum sp only,Many,56
+5270,Ustilago maydis,,Monocot,4577,Zea mays,Maize,eukaryote,fungus,ascomycete,5270,plant,Monocot,Biotroph ,,Cereal Monocot,A few,17
+5454,Ascochyta rabiei,,Eudicots,3827,Cicer arietinum,Cicer arietinum (related: Chickpea),eukaryote,fungus,ascomycete,5454,plant,NA,NA,NA,NA,NA,NA
+5457,Colletotrichum gloeosporioides (related: Glomerella cingulata),,Dicot,4081,Solanum lycopersicumÿ,Tomato,eukaryote,fungus,ascomycete,5457,plant,NA,NA,NA,NA,NA,NA
+5462,Colletotrichum lagenarium,,Dicot,3659,Cucumber,Cucumber,eukaryote,fungus,ascomycete,5462,plant,NA,NA,NA,NA,NA,NA
+5465,Colletotrichum orbiculare,,,3659,Cucumber,Cucumber,eukaryote,fungus,ascomycete,5465,plant,Dicot,Hemibiotroph,,Dicot ,Vast,101
+5466,Colletotrichum trifolii,,Dicot,3879,Medicago sativa,Alfalfa,eukaryote,fungus,ascomycete,5466,plant,Dicot,Hemibiotroph,,Dicot,Many,37
+5476,Candida albicans,,,10090,Mus musculus,Mouse,eukaryote,fungus,ascomycete,5476,animal,Animal,,,,,
+5478,Candida glabrata,,,10090,Mus musculus,Mouse,eukaryote,fungus,ascomycete,5478,animal,Animal,,,,,
+5480,Candida parapsilosis,,na,10090,Mus musculus,Mouse,eukaryote,fungus,ascomycete,5480,animal,Animal,,,,,
+5482,Candida tropicalis,,,10090,Mus musculus,Mouse,eukaryote,fungus,ascomycete,5482,animal,Animal,,,,,
+5499,Cladosporium fulvum,,Dicot,4081,Solanum lycopersicumÿ,Tomato,eukaryote,fungus,ascomycete,5499,plant,Dicot,Biotroph ,,Dicot,Many,34
+5501,Coccidioides immitis ,,,10090,Mus musculus,Mouse,eukaryote,fungus,ascomycete,5501,animal,Animal,,,,,
+5507,Fusarium oxysporum,,Dicot,4081,Solanum lycopersicumÿ,Tomato,NA,fungus,ascomycete,5507,plant,NA,NA,NA,NA,NA,NA
+5514,Fusarium sporotrichioides,,Monocot,4564,Triticum aestivum,Wheat,eukaryote,fungus,ascomycete,5514,plant,Monocot,Necrotroph,,Cereal Monocot   and Dicot,Many ,66
+5516,Fusarium culmorum,,Monocot,4564,Triticum aestivum,Wheat,eukaryote,fungus,ascomycete,5516,plant,Monocot,Hemibiotroph -necrotroph,,Cereal Monocot   and Dicot,Vast,136
+5518,Fusarium graminearum (related: Gibberella zeae),,Monocot,4564,Triticum aestivum,Wheat,eukaryote,fungus,ascomycete,5518,plant,NA,NA,NA,NA,NA,NA
+5530,Metarhizium anisopliae,,na,51655,Plutella xylostella,Diamondback moth,eukaryote,fungus,ascomycete,5530,animal,Insect,,,,,
+5551,Trichophyton rubrum,,,9606,Homo sapiens,Human,eukaryote,fungus,ascomycete,5551,animal,Animal,,,,,
+5563,Gloeocercospora sorghi,,Monocot,4558,Sorghum bicolor,Sorghum,eukaryote,fungus,ascomycete,5563,plant,Monocot,Necrotroph,,Cereal Monocot,Many,32
+5599,Alternaria alternata,,Dicot,23211,Pyrus communisÿ,Pear,eukaryote,fungus,ascomycete,5599,plant,Dicot,Necrotroph,,Cereal Monocot - Non Cereal Monocot  - Dicot ,Vast ,905
+5664,Leishmania major,,Rodents,10090,Mus musculus,Mus musculus (related: House mouse),eukaryote,protist,kinetoplastida,5664,animal,NA,NA,NA,NA,NA,NA
+5665,Leishmania mexicana,,na,10090,Mus musculus,Mouse,eukaryote,protist,kinetoplastida,5665,animal,Animal,,,,,
+5671,Leishmania infantum,,,10090,Mus musculus,Mouse,eukaryote,protist,kinetoplastida,5671,animal,Animal,,,,,
+5693,Trypanosoma cruzi,,n/a,5693,Trypanosoma cruzi,Human,eukaryote,protist,kinetoplastida,5693,animal,Animal,,,,,
+5811,Toxoplasma gondii,,,10090,Mus musculus,Mouse,eukaryote,protist,apicomplexa,5811,animal,Animal,,,,,
+5833,Plasmodium falciparum,,Primates,9606,Homo sapiens,Homo sapiens (related: Human),eukaryote,protist,apicomplexa,5833,animal,NA,NA,NA,NA,NA,NA
+5970,Exophiala dermatitidis (related: Wangiella  dermatitidis),,,10090,Mus musculus,Mouse,eukaryote,fungus,ascomycete,5970,animal,Animal,,,,,
+6303,Meloidogyne javanica,,Dicot,4081,Solanum lycopersicumÿ,Tomato,eukaryote,other,nematode,6303,plant,Dicot,Biotroph,yes,"Dicot, Dicot -Tree,  Cereal  Monocot, Non Cereal monocot",Vast,no entry or 102
+6326,Bursaphelenchus xylophilus,,Seed plants,3350,Pinus thunbergii ,Pinus thunbergii (related: Japanese black pine),eukaryote,other,nematode,6326,plant,NA,nematod,NA,NA,NA,NA
+13131,Macrosiphum euphorbiae,,,4100,Nicotiana benthamiana,Nicotiana benthamiana,eukaryote,other,aphid,13131,plant,Dicot,Phloem feeding insect,,"Dicot, Dicot -Tree,  Cereal  Monocot, Non Cereal monocot",Many,no entry or 35 
+13164,Myzus persicae,,Dicot,4100,Nicotiana benthamiana,Tobacco,eukaryote,other,aphid,13164,plant,Dicot,Phloem feeding insect,,"Dicot, Dicot -Tree,  Cereal  Monocot, Non Cereal monocot",Vast ,no entry or 115
+13684,Stagonospora nodorum (related: Phaeosphaeria nodorum),,Monocot,4564,Triticum aestivum,Wheat,eukaryote,fungus,ascomycete,13684,plant,Monocot,Necrotroph-PHST,,Cereal Monocot,Vast,113
+27334,Penicillium expansum,,Eudicots,3750,Malus domestica,Malus domestica (related: Apple),eukaryote,fungus,ascomycete,27334,animal,NA,NA,NA,NA,NA,NA
+27337,Verticillium dahliae,,Dicot,4073,Capsicum frutescens,Chili Pepper,eukaryote,fungus,ascomycete,27337,plant,Dicot,Necrotroph,,Dicot,Vast,395
+27350,Puccinia striiformis,,Monocots,4565,Triticum aestivum,Triticum aestivum (related: Bread wheat),prokaryote,bacterium,prokaryote,27350,animal,NA,NA,NA,NA,NA,NA
+27357,Colletotrichum acutatum,,Dicot,159033,Citrus aurantiifolia,Lime,eukaryote,fungus,ascomycete,27357,plant,NA,NA,NA,NA,NA,NA
+27358,Colletotrichum coccodes,,Eudicot,4081,Solanum lycopersicumÿ,Tomato,eukaryote,fungus,ascomycete,27358,plant,Dicot,Hemibiotroph -necrotroph,,Dicot and Cereal Monocot,Many,59
+28035,Staphylococcus lugdunensis,,Rodents,10114,Rattus,Rattus (related: Rat),prokaryote,bacterium,prokaryote,28035,animal,NA,NA,NA,NA,NA,NA
+28171,Vibrio aestuarianus,,Bivalves,29159,Crassostrea gigas,Crassostrea gigas (related: Pacific oyster),prokaryote,bacterium,prokaryote,28171,animal,NA,NA,NA,NA,NA,NA
+28447,Clavibacter michiganensis,,Eudicots,4081,Solanum lycopersicumÿ,Solanum lycopersicum (related: Tomato),prokaryote,bacterium,prokaryote,28447,plant,dicot,NA,NA,NA,NA,NA
+28450,Burkholderia pseudomallei,,Rodents,10090,Mus musculus,Mus musculus (related: House mouse),prokaryote,bacterium,prokaryote,28450,animal.plant,NA,NA,NA,NA,NA,NA
+28901,Salmonella enterica,,,10090,Mus musculus,Mouse,prokaryote,bacterium,bacterium,28901,animal,NA,NA,NA,NA,NA,NA
+29001,Alternaria brassicicola,,Dicot,3712,Brassica oleracea,Brassica oleracea,eukaryote,fungus,ascomycete,29001,plant,Dicot,Necrotroph,,Dicot,Many,73
+29003,Cercospora nicotianae,,Dicot,4097,Nicotiana tabacum,Tobacco,eukaryote,fungus,ascomycete,29003,plant,Dicot,Necrotroph -HST,,Dicot,A few,6
+29385,Staphylococcus saprophyticus,,Nematodes,6239,Caenorhabditis elegans,Caenorhabditis elegans (related: Roundworm),prokaryote,bacterium,prokaryote,29385,animal,NA,NA,NA,NA,NA,NA
+29438,Pseudomonas savastanoi,,Eudicots,4146,Olea europaeaÿ,Olea europaea (related: Common olive),prokaryote,bacterium,prokaryote,29438,plant,NA,NA,NA,NA,NA,NA
+29459,Brucella melitensis,,Rodents,10090,Mus musculus,Mus musculus (related: House mouse),prokaryote,bacterium,prokaryote,29459,animal,NA,NA,NA,NA,NA,NA
+29471,Pectobacterium atrosepticum,,,4113,Solanum tuberosumÿ,Potato,prokaryote,bacterium,prokaryote,29471,plant,Dicot,Necrotroph,,Dicots - Cereal Monocot - Non Cereal Monocot ,many,37
+29486,Yersinia ruckeri,,Bony fishes,8022,Oncorhynchus mykiss,Oncorhynchus mykiss (related: Rainbow trout),prokaryote,bacterium,prokaryote,29486,animal,NA,NA,NA,NA,NA,NA
+29488,Photorhabdus luminescens,,Moths,7137,Galleria mellonella,Galleria mellonella (related: Greater wax moth),prokaryote,bacterium,prokaryote,29488,animal,NA,NA,NA,NA,NA,NA
+29850,Gaeumannomyces graminis,,Monocot,4564,Triticum aestivum,Wheat,eukaryote,fungus,ascomycete,29850,plant,Monocot,Necrotroph,,Cereal Monocot,A few,18
+29875,Trichoderma virens,,,107832,Thanatephorus cucumeris,Rhizoctonia solani,eukaryote,fungus,ascomycete,29875,fungi,Fungi,,,"Fungi, Dicot, Dicot - Trees",A few,12
+29905,Colletotrichum gloeosporioides f. sp. aeschynomenes,,,108276,Aeschynomene virginica,Aeschynomene virginica,eukaryote,fungus,ascomycete,29905,plant,NA,NA,NA,NA,NA,NA
+29920,Phytophthora cactorum,,Dicot,3747,Fragaria x ananassa ,Strawberry,eukaryote,protist,oomycete,29920,plant,Dicot,Necrotroph,,Cereal Monocot - Non Cereal Monocot - Dicot ,Vast,420
+31870,Colletotrichum graminicola,,Monocot,4577,Zea mays,Maize,eukaryote,fungus,ascomycete,31870,plant,NA,NA,NA,NA,NA,NA
+34085,Riemerella anatipestifer,,Birds,8839,Anas platyrhynchos,Anas platyrhynchos (related: Mallard),prokaryote,bacterium,prokaryote,34085,animal,NA,NA,NA,NA,NA,NA
+35717,Epichloe festucae,,Monocot,4522,Lolium perenneÿ,Rye grass,eukaryote,fungus,ascomycete,35717,plant,Monocot,Endophyte,,Cereal Monocot ,A few ,3
+36090,Globodera pallida,,,4113,Solanum tuberosumÿ,Potato,eukaryote,other,nematode,36090,plant,Dicot,Biotroph,yes,Dicot,Many,no entry or 23
+36651,Penicillium digitatum,,Eudicots,2711,Citrus sinensis,Citrus sinensis (related: Sweet orange),eukaryote,fungus,ascomycete,36651,plant,NA,NA,NA,NA,NA,NA
+36746,Pseudomonas cichorii ,,,4236,Lactuca sativa,Butter head lettuce,prokaryote,bacterium,prokaryote,36746,plant,Dicot,Hemibiotroph,,Dicot,many,2 or 73
+36911,Candida lusitaniae,,,10090,Mus musculus,Mouse,eukaryote,fungus,ascomycete,36911,animal,Animal,,,,,
+37769,Cryptococcus bacillisporus,,,10090,Mus musculus,Mouse,eukaryote,fungus,basidiomycete,37769,animal,Animal,,,,,
+38038,Rhynchosporium secalis,,Monocot,112509,Hordeum vulgare subsp. vulgare,Barley,eukaryote,fungus,ascomycete,38038,plant,Monocot,Hemibiotroph,,Cereal Monocot,Many,80
+38448,Monilinia fructicola,,Dicot,38448,Monilinia fructicola,none,eukaryote,fungus,ascomycete,38448,plant,Dicot,Necrotroph,,Dicot,Many,103
+39703,Septoria lycopersici,,Dicot,4081,Solanum lycopersicumÿ,Tomato,eukaryote,fungus,ascomycete,39703,plant,Dicot,Necrotroph,,Dicot,A few,17
+40125,Cochliobolus victoriae,,Monocot,4498,Avena sativa,Oat,eukaryote,fungus,ascomycete,40125,plant,Monocot,Necrotroph -HST,,Cereal Monocot   and Dicot,Many,40
+40324,Stenotrophomonas maltophilia,,Bony fishes,7955,Danio rerio,Danio rerio (related: Zebrafish),prokaryote,bacterium,prokaryote,40324,animal,NA,NA,NA,NA,NA,NA
+40559,Botrytis cinerea,,Dicot,3885,Phaseolus vulgaris,Bean,eukaryote,fungus,ascomycete,40559,plant,NA,NA,NA,NA,NA,NA
+42897,Shigella flexneri,,,10090,Mus musculus,Mouse,prokaryote,bacterium,prokaryote,42897,animal,NA,NA,NA,NA,NA,NA
+43353,Xanthomonas axonopodis pv. manihotis ,,,3983,Manihot esculenta,Cassava,prokaryote,bacterium,prokaryote,43353,plant,Dicot,Hemibiotroph,,Dicot,few,2
+45130,Cochliobolus sativus,,Monocot,112509,Hordeum vulgare subsp. vulgare,Barley,eukaryote,fungus,ascomycete,45130,plant,Monocot,Hemibiotroph ,,Cereal Monocot  ,Vast,374
+45151,Pyrenophora tritici-repentis,,Monocot,4565,Triticum aestivum,Wheat,eukaryote,fungus,ascomycete,45151,plant,Monocot,Necrotroph-PHST,,Cereal Monocot,Many,87
+48100,Alternaria solani,,Eudicots,4081,Solanum lycopersicumÿ,Solanum lycopersicum (related: Tomato),eukaryote,fungus,ascomycete,48100,plant,NA,NA,NA,NA,NA,NA
+50340,Pseudomonas fuscovaginae,,Eudicots,63459,Chenopodium quinoa,Chenopodium quinoa (related: Quinoa),prokaryote,bacterium,prokaryote,50340,plant,NA,NA,NA,NA,NA,NA
+53485,Pyrenophora teres,,Monocot,112509,Hordeum vulgare subsp. vulgare,Barley,eukaryote,fungus,ascomycete,53485,plant,Monocot,Hemibiotroph,,Cereal Monocot,Many,29
+54734,Mycosphaerella graminicola (related: Zymoseptoria triticii),,Monocot,4564,Triticum aestivum,Wheat,eukaryote,fungus,ascomycete,54734,plant,Monocot,Hemibiotroph,,Cereal Monocot,A few,33
+55208,Pectobacterium wasabiae,,,4113,Solanum tuberosumÿ,Potato,prokaryote,bacterium,prokaryote,55208,plant,Dicot,Necrotroph,,Dicot,few,
+56454,Xanthomonas hortorum,,Eudicots,4031,Pelargonium x hortorum,Pelargonium x hortorum (related: Zonal pelargonium),prokaryote,bacterium,prokaryote,56454,plant,NA,NA,NA,NA,NA,NA
+59765,Fusarium oxysporum f. sp. Lycopersici,,Eudicot,4081,Solanum lycopersicumÿ,Tomato,eukaryote,fungus,ascomycete,59765,plant,NA,NA,NA,NA,NA,NA
+61369,Fusarium oxysporum f.sp. melonis,,Eudicot,3656,Cucumis melo,Muskmelon,eukaryote,fungus,ascomycete,61369,plant,Dicot,Necrotroph,,,,no entry
+62688,Blumeria graminis,,Monocot,112509,Hordeum vulgare subsp. vulgare,Barley,eukaryote,fungus,ascomycete,62688,plant,NA,NA,NA,NA,NA,NA
+64187,Xanthomonas oryzae pv. oryzae,,Monocot,4530,Oryza sativa,Rice,prokaryote,bacterium,prokaryote,64187,plant,Monocot,Hemibiotroph,,Cereal Monocot,few,18
+65070,Pythium aphanidermatum,,Dicot,4097,Nicotiana tabacum,Tobacco,eukaryote,protist,oomycete,65070,plant,Dicot,Necrotroph,,Cereal Monocot  - Non Cereal Monocot - Dicot ,Vast,285
+66269,Pantoea stewartii,,Monocots,4577,Zea mays,Zea mays (related: Maize),prokaryote,bacterium,prokaryote,66269,plant,NA,NA,NA,NA,NA,NA
+66271,Pantoea stewartii subsp. stewartii,,Monocot,4577,Zea mays,Maize,prokaryote,bacterium,prokaryote,66271,plant,Monocot,Necrotroph,,Cereal Monocot,few,16
+67593,Phytophthora sojae,,Dicot,4043,Petroselinum crispumÿ,Parsley,eukaryote,protist,oomycete,67593,plant,Dicot,Hemibiotroph,,Non Cereal Monocot - Dicot ,Many,49
+67780,Edwardsiella ictaluri,,,7998,Ictalurus punctatus,Channel catfish,prokaryote,bacterium,prokaryote,67780,animal,Fish,,,,,
+67825,Citrobacter rodentium,,Rodents,10090,Mus musculus,Mus musculus (related: House mouse),prokaryote,bacterium,prokaryote,67825,plant,NA,NA,NA,NA,NA,NA
+70790,Fusarium solani f. sp. cucurbitae,,,3661,Cucurbita maxima,Winter squash,eukaryote,fungus,ascomycete,70790,plant,Dicot,Necrotroph,,Dicots,A few ,10
+76659,Pyrenopeziza brassicae,,Dicot,3708,Brassica napusÿ,Oil seed rape,eukaryote,fungus,ascomycete,76659,plant,Dicot,Hemibiotroph,,Dicot,A few,16
+77044,Rosellinia necatrix,,Eudicots,106564,Malus prunifolia,Malus prunifolia (no common name),eukaryote,fungus,ascomycete,77044,plant,dicot,NA,NA,NA,NA,NA
+84275,Cercospora kikuchii,,Dicot,3847,Glycine max,Soybean,eukaryote,fungus,ascomycete,84275,plant,Dicot,Necrotroph -HST,,Dicot,A few,14
+85558,Streptomyces turgidiscabies,,Dicot,3702,Arabidopsis thaliana,Arabidopsis thaliana,prokaryote,bacterium,prokaryote,85558,plant,Dicot,Necrotroph,,Dicot,few,
+90371,Salmonella enterica serovar Typhimurium,,,10090,Mus musculus,Mouse,prokaryote,bacterium,prokaryote,90371,animal,Animal,,,,,
+92637,Metarhizium acridum,,Grasshoppers,229990,Locusta migratoria manilensis,Locusta migratoria manilensis (related: Oriental migratory locust),eukaryote,fungus,ascomycete,92637,animal,NA,NA,NA,NA,NA,NA
+93591,Verticillium fungicola ,,,5341,Agaricus bisporus,Agaricus bisporus,eukaryote,fungus,ascomycete,93591,fungi,Fungi,,,Fungi,One,1
+93612,Setosphaeria turcica,,Monocot,381124,Zea mays,Maize,eukaryote,fungus,ascomycete,93612,plant,Monocot,Hemibiotroph,,Cereal Monocot,Many,37
+95486,Burkholderia cenocepacia,,Primates,9606,Homo sapiens,Homo sapiens (related: Human),prokaryote,bacterium,prokaryote,95486,animal.plant,NA,NA,NA,NA,NA,NA
+96345,Flavobacterium psychrophilum ,,,8019,Oncorhynchus kisutch,Coho Salmon,prokaryote,bacterium,prokaryote,96345,animal,Fish,,,,,
+101028,Fusarium pseudograminearum,,Monocot,112509,Hordeum vulgare subsp. vulgare,Barley,eukaryote,fungus,ascomycete,101028,plant,Monocot,Necrotroph,,Cereal Monocot  ,Many,22
+101162,Cochliobolus miyabeanus,,Monocot,4530,Oryza sativa,Rice,eukaryote,fungus,ascomycete,101162,plant,Monocot,Necrotroph ,,Cereal Monocot   and Dicot,Many,33
+117187,Gibberella moniliformis (related: Fusarium verticillioides),,Monocot,4577,Zea mays,Maize,eukaryote,fungus,ascomycete,117187,animal.plant,Monocot / Animal / Insect,Hemibiotroph -necrotroph,,"Cereal Monocot, Dicots",Many,43
+120017,Ustilago hordei,,Monocot,112509,Hordeum vulgare subsp. vulgare,Barley,eukaryote,fungus,ascomycete,120017,plant,Monocot,Biotroph ,yes,Cereal Monocot,Many,115
+123356,Hyaloperonospora parasitica,,Dicot,3702,Arabidopsis thaliana,Arabidopsis thaliana,eukaryote,fungus,ascomycete,123356,plant,Dicot,Biotroph,yes,Dicot,Vast,330
+129394,Xanthomonas oryzae pv. Oryzicola,,Monocot,4530,Oryza sativa,Rice,NA,bacterium,prokaryote,129394,plant,NA,NA,NA,NA,NA,NA
+134874,Xanthomonas translucens pv. graminis,,,4521,Lolium multiflorum,Italian ryegrass,prokaryote,bacterium,prokaryote,134874,plant,Dicot,Hemibiotroph,,Cereal Monocot,few,
+135779,Cercospora zeae-maydis,,Monocot,4577,Zea mays,Maize,eukaryote,fungus,ascomycete,135779,plant,Monocot,Necrotroph -HST,,Cereal Monocot,A few,4
+135859,Alternaria citri,,,64884,Citrus jambhiri,Rough lemon,eukaryote,fungus,ascomycete,135859,plant,Dicot,Necrotroph,,Dicot,Many,48
+140110,Nectria haematococca (related: Fusarium solani),,Dicot,3888,Pisum sativum,Pea,eukaryote,fungus,ascomycete,140110,plant,Dicot,Necrotroph,,Cereal Monocot - Non Cereal Monocot - Dicot ,Vast,623
+147375,Paenibacillus larvae,,Bees,7460,Apis mellifera,Apis mellifera (related: Honey bee),prokaryote,bacterium,prokaryote,147375,animal,NA,NA,NA,NA,NA,NA
+148305,Magnaporthe oryzae (related: Magnaporthe grisea),,Monocot,4530,Oryza sativa,Rice,eukaryote,fungus,ascomycete,148305,plant,Monocot,Hemibiotroph,,Cereal Monocot   - Non Cereal Monocot ,Vast,204
+149539,Salmonella enteritidis,,,10090,Mus musculus,Mouse,prokaryote,bacterium,prokaryote,149539,animal,Animal,,,,,
+153609,Moniliophthora perniciosa,,Eudicots,3641,Theobroma cacao,Theobroma cacao (related: Cocao),eukaryote,fungus,basiomycete,153609,plant,NA,NA,NA,NA,NA,NA
+160389,Alternaria longipes,,Eudicot,4097,Nicotiana tabacum,Tobacco,eukaryote,fungus,ascomycete,160389,plant,Dicot ,Necrotroph,,Dicot ,Many,22
+162425,Aspergillus nidulans,,,10090,Mus musculus,Mouse,eukaryote,fungus,ascomycete,162425,animal,Animal,,,,,
+169388,Fusarium solani,,Eudicot,3888,Pisum sativum,Pea,eukaryote,fungus,ascomycete,169388,plant,Dicot,Necrotroph,,"Dicot - Dicot Trees, Cereal Monocot  - Non Cereal Monocot ",Vast,516
+176275,Beauveria bassiana,,Dicot,27482,Aphididae,Aphid,eukaryote,fungus,ascomycete,176275,animal,Insect,,,,,
+178876,Cryptococcus neoformans var. grubii   ,,,7137,Galleria mellonella,Greater wax moth,eukaryote,fungus,basidiomycete,178876,animal,Animal / Insect,,,,,
+183190,Xylella fastidiosa,,,3885,Phaseolus vulgaris,Grapes,prokaryote,bacterium,prokaryote,183190,plant,Dicot,,,Dicot and Cereal Monocot,many,9 or 49
+199306,Coccidioides posadasii,,,10090,Mus musculus,Mouse,eukaryote,fungus,ascomycete,199306,animal,Animal,,,,,
+212663,Vibrio splendidus,,Bivalves,29159,Crassostrea gigas,Crassostrea gigas (related: Pacific oyster),prokaryote,bacterium,prokaryote,212663,animal,fish,NA,NA,NA,NA,NA
+226899,Grosmannia clavigera,,,3339,Pinus contortaÿ,Pinus contorta,eukaryote,fungus,ascomycete,226899,plant,Gymnosperm,,,Dicot - Tree,A few,13
+272952,Hyaloperonospora arabidopsidis,,Eudicot,3702,Arabidopsis thaliana,Thale cress,eukaryote,protist,oomycete,272952,plant,Dicot ,Biotroph ,yes,Dicot,A few,5
+278938,Botrytis elliptica,,Monocot,4688,Lilium,Lily,eukaryote,fungus,ascomycete,278938,plant,Monocot,Hemibiotroph -necrotroph,,Non Cereal Monocot,Many,37
+285811,Pyrenochaeta lycopersici,,Eudicots,4081,Solanum lycopersicumÿ,Solanum lycopersicum (related: Tomato),eukaryote,fungus,ascomycete,285811,plant,NA,NA,NA,NA,NA,NA
+290576,Colletotrichum lindemuthianum,,Dicot,3885,Phaseolus vulgaris,Bean,eukaryote,fungus,ascomycete,290576,plant,NA,NA,NA,NA,NA,NA
+292817,Cryptococcus gattii,,animal,10090,Mus musculus,Mouse,eukaryote,fungus,basidiomycete,292817,animal,Animal,,,,,
+312341,Ceratocystis populicola,,Eudicots,43335,Populus alba,Populus alba (related: White poplar),eukaryote,fungus,ascomycete,312341,plant,NA,NA,NA,NA,NA,NA
+360094,Xanthomonas oryzae pv. oryzae,,Monocot,4564,Triticum aestivum,Rice,prokaryote,bacterium,bacterium,360094,plant,NA,NA,NA,NA,NA,NA
+360920,Pseudomonas savastanoi pv. savastanoi,,Dicot,4146,Olea europaeaÿ,Olives,prokaryote,bacterium,prokaryote,360920,plant,Dicot,Hemibiotroph,,Dicot - Dicot Trees,few,6
+426428,Fusarium oxysporum f. sp. lycopersici 4287,,,4081,Solanum lycopersicumÿ,,eukaryote,fungus,ascomycete,426428,plant,,,,,,
+456327,Xanthomonas campestris pv vesicatoria,,Eudicot,4072,Capsicum annuum,Pepper,prokaryote,bacterium,bacterium,456327,plant,NA,NA,NA,NA,NA,NA
+474922,Colletotrichum gloeosporioides (related: Glomerella cingulata),,Eudicots,4081,Solanum lycopersicumÿ,Solanum lycopersicum (related: Tomato),eukaryote,fungus,ascomycete,474922,plant,Dicot,Hemibiotroph -necrotroph,,Non Cereal Monocot - Dicot (D),Vast,1911
+475271,Beauveria bassiana,,Dicot,27482,Aphididae,,eukaryote,fungus,ascomycete,475271,animal,,,,,,
+498217,Edwardsiella tarda,,,7955,Danio rerio,Zebrafish,prokaryote,bacterium,prokaryote,498217,animal,Fish,,,,,
+552467,Cryptococcus gattii,,animal,10090,Mus musculus,,eukaryote,fungus,basidiomycete,552467,animal,,,,,,
+552546,Muricauda olearia,,animal,6239,Caenorhabditis elegans,,procaryote,bacterium,prokaryote,552546,animal,,,,,,
+568076,Metarhizium robertsii,,na,7067,Tenebrio molitor,Yellow mealworm,eukaryote,fungus,ascomycete,568076,animal,Insect,,,,,
+611301,Xanthomonas citri subsp. Citri,,Eudicot,37656,Citrus x paradisi,Grapefruit,prokaryote,bacterium,NA,611301,plant,NA,NA,NA,NA,NA,NA
+746128,Aspergillus fumigatus,,,10090,Mus musculus,Mouse,eukaryote,fungus,ascomycete,746128,animal,Animal,,,,,
+914237,Rhynchosporium commune,,,4513,Hordeum vulgare,Barley,eukaryote,fungus,ascomycete,914237,plant,Monocot,Hemibiotroph,,Cereal Monocot,A few,4
+992166,Yersinia pestis,,animal,10090,Mus musculus,Mouse,prokaryote,bacterium,prokaryote,992166,animal,Animal,,,,,
+1089444,Dickeya solani,,,4113,Solanum tuberosumÿ,,procaryote,bacterium,enterobacteria,1089444,plant,Dicot,,,,,
+292,Burkholderia cepaciaÿ,,,,,,procaryote,bacterium,,,,,,,,,
+329,Ralstonia pickettii,,b-proteobacteria,,,,procaryote,bacterium,,,,,,,,,
+584,Proteus mirabilis,,enterobacteria,,,,procaryote,bacterium,,,,,,,,,
+715,"Actinobacillus pleuropneumoniae, g-proteobacteria",,,,,,procaryote,bacterium,,,,,,,,,
+727,Haemophilus influenzae,,g-proteobacteria,,,,procaryote,bacterium,,,,,,,,,
+730,[Haemophilus] ducreyi,,g-proteobacteria,,,,procaryote,bacterium,,,,,,,,,
+1349,Streptococcus uberis,,firmicutes,,,,procaryote,bacterium,,,,,,,,,
+1352,Enterococcus faecium,,firmicutes,,,,procaryote,bacterium,,,,,,,,,
+1358,Lactococcus lactis,,firmicutes,,,,procaryote,bacterium,,,,,,,,,
+1717,Corynebacterium diphtheriae,,ÿhigh GC Gram+,,,,procaryote,bacterium,,,,,,,,,
+5691,Trypanosoma brucei,,kinetoplastids,,,,procaryote,bacterium,,,,,,,,,
+13349,Arthrobotrys oligospora,,ascomycetes,,,,eukaryote,fungus,,,,,,,,,
+13373,Burkholderia mallei,,b-proteobacteria,,,,procaryote,bacterium,,,,,,,,,
+13563,Heterobasidion annosum,,basidiomycetes,,,,eukaryote,fungus,,,,,,,,,
+36809,Mycobacterium abscessus,,high GC Gram+,,,,procaryote,bacterium,,,,,,,,,
+38293,Photobacterium damselae,,g-proteobacteria,,,,procaryote,bacterium,,,,,,,,,
+42374,Candida dubliniensis,, ascomycetes,,,,eukaryote,fungus,,,,,,,,,
+46012,Photobacterium damselae,,g-proteobacteria,,,,procaryote,bacterium,,,,,,,,,
+64495,Rhizopus oryzae,,fungi,,,,eukaryote,fungus,,,,,,,,,
+80884,Photobacterium damselae,,g-proteobacteria,,,,procaryote,bacterium,,,,,,,,,
+83344,Pseudocercospora fijiensis,,ascomycetes,,,,eukaryote,fungus,,,,,,,,,
+83560,Chlamydia muridarum,,"(agent of mouse pneumonitis), species, chlamydias",,,,procaryote,bacterium,,,,,,,,,
+204038,Dickeya dadantii,,enterobacteria,,,,procaryote,bacterium,,,,,,,,,
+282267,Fusarium asiaticum,,ascomycetes,,,,eukaryote,fungus,,,,,,,,,
+318829,Dickeya dadantii,,enterobacteria,,,,procaryote,bacterium,,,,,,,,,
+442429,Pseudomonas syringae pv. averrhoi,,g-proteobacteria,,,,procaryote,bacterium,,,,,,,,,
+488447,Burkholderia contaminans,,ÿb-proteobacteria,,,,procaryote,bacterium,,,,,,,,,
+523103,Trichophyton mentagrophytes,,ÿascomycetes,,,,eukaryote,fungus,,,,,,,,,
+1047171,Zymoseptoria tritici,,ascomycetes,,,,eukaryote,fungus,,,,,,,,,
+1585795,Colletotrichum lentis,,ascomycetes,,,,eukaryote,fungus,,,,,,,,,
