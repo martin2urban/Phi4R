@@ -11,12 +11,11 @@ library(data.table)
 library(tidyr)
 library(readxl)
 library(here)
-
 #setwd("H:/GoogleDrive/VIMdb/Projects/PHIbase/")
 #--MAIN---------------------------------------------------------
 #phi=read.csv("phi46.csv", stringsAsFactors=FALSE, strip.white=TRUE, header=FALSE)
-here()a #set root directory to Rproject = "PhibaseVersions"
-phi=read_excel(here("Phi46", "phi46_0.xlsx"))
+here("Phi46","phi46_0.xlsx")
+phi=read_excel("phi46_0.xlsx", sheet= "PHIbase_all")
 
 #  ===TO TO ==== Beneath column removal not implemented in pipeline was doe manually in phi46  
 #
