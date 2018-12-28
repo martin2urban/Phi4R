@@ -9,7 +9,7 @@
 library(dplyr)
 library(data.table)
 library(tidyr)
-library(readxl)
+library(readxl) #part of tidyverse package, there is no write function yet. Thus us openxlsx to write to excel.
 library(here)
 #setwd("H:/GoogleDrive/VIMdb/Projects/PHIbase/")
 #--MAIN---------------------------------------------------------
