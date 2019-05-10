@@ -1,4 +1,4 @@
-## Script to clean up phi46.xlsx and save as parsable File
+## Script to clean up phi47.xlsx and save as parsable File
 ##  followed by stats analysis   2018-09-30
 ##
 #--Environment----
